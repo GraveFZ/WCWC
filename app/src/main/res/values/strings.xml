@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TEST</string>
+    <string name="password">Пароль</string>
+    <string name="enter">Войти</string>
+    <string name="login">Логин</string>
+    <string name="Register">Регистрация</string>
+    <string name="ok">OK</string>
+</resources>
